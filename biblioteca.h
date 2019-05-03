@@ -23,7 +23,6 @@ public:
     void agregarLibro(std::string _titulo);
     void agregarRevista(std::string _titulo);
     void mostrarBiblioteca();
-    volumen* getVolumen(int _numVolumen);
     int getLibros();
     int getRevistas();
 };

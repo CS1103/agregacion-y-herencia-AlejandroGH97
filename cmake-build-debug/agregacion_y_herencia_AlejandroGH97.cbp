@@ -108,6 +108,9 @@
 		<Unit filename="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/revista.h">
 			<Option target="agregacion_y_herencia_AlejandroGH97"/>
 		</Unit>
+		<Unit filename="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/testvolumen.cpp">
+			<Option target="agregacion_y_herencia_AlejandroGH97"/>
+		</Unit>
 		<Unit filename="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/volumen.cpp">
 			<Option target="agregacion_y_herencia_AlejandroGH97"/>
 		</Unit>

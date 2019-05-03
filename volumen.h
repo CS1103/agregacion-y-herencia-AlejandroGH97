@@ -13,10 +13,8 @@ protected:
     std::string titulo;
     int numVol;
 public:
-    volumen();
-    explicit volumen(std::string _titulo);
+    volumen()= default;
     virtual void mostrar()=0;
-    std::string getTitulo();
 };
 
 

@@ -40,10 +40,6 @@ void biblioteca::agregarRevista(std::string _titulo) {
     }
 }
 
-volumen* biblioteca::getVolumen(int _numVolumen) {
-    return volumenes[_numVolumen];
-}
-
 int biblioteca::getLibros() {
     return libros;
 }
