@@ -1,8 +1,8 @@
 #include <iostream>
 #include "biblioteca.h"
-//#define CATCH_CONFIG_MAIN
-//#include "catch2.h"
-//#ifndef CATCH_CONFIG_MAIN
+#define CATCH_CONFIG_MAIN
+#include "catch2.h"
+#ifndef CATCH_CONFIG_MAIN
 
 int main() {
 biblioteca b(10,10);
@@ -18,4 +18,4 @@ biblioteca b(10,10);
     b.agregarRevista("Time");
     b.mostrarBiblioteca();
 }
-//#endif
+#endif
