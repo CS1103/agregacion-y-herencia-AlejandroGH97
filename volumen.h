@@ -15,7 +15,7 @@ protected:
 public:
     volumen();
     explicit volumen(std::string _titulo);
-    virtual void mostrar();
+    virtual void mostrar()=0;
     std::string getTitulo();
 };
 

@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/libro.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o"
   "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/main.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.o"
   "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/revista.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o"
-  "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/testvolumen.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o"
   "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/volumen.cpp" "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

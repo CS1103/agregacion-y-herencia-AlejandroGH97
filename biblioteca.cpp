@@ -15,17 +15,16 @@ biblioteca::biblioteca(int maxLib, int maxRev):maxLibros{maxLib},maxRevistas{max
 }
 
 void biblioteca::mostrarBiblioteca() {
-//FOR POR EL VECTOR
-    for(volumen v: volumenes){
-        v.mostrar();
+    for(volumen* v: volumenes){
+        v->mostrar();
     }
 }
 
 void biblioteca::agregarLibro(std::string _titulo) {
     if(libros<maxLibros) {
-        volumenes.emplace_back(libro(_titulo, numVolumenes,numVolumenes));
         libros++;
         numVolumenes++;
+        volumenes.emplace_back(new libro(_titulo, numVolumenes,libros));
     }else{
         std::cout<<"No se pueden guardar mas libros."<<std::endl;
     }
@@ -33,15 +32,15 @@ void biblioteca::agregarLibro(std::string _titulo) {
 
 void biblioteca::agregarRevista(std::string _titulo) {
     if(revistas<maxRevistas){
-        volumenes.emplace_back(revista(_titulo, numVolumenes,numVolumenes));
         revistas++;
         numVolumenes++;
+        volumenes.emplace_back(new revista(_titulo, numVolumenes,revistas));
     }else{
         std::cout<<"No se pueden guardar mas revistas."<<std::endl;
     }
 }
 
-volumen biblioteca::getVolumen(int _numVolumen) {
+volumen* biblioteca::getVolumen(int _numVolumen) {
     return volumenes[_numVolumen];
 }
 

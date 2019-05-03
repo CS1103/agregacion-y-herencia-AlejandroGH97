@@ -231,33 +231,6 @@ revista.cpp.s:
 	$(MAKE) -f CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/build.make CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.s
 .PHONY : revista.cpp.s
 
-testvolumen.o: testvolumen.cpp.o
-
-.PHONY : testvolumen.o
-
-# target to build an object file
-testvolumen.cpp.o:
-	$(MAKE) -f CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/build.make CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o
-.PHONY : testvolumen.cpp.o
-
-testvolumen.i: testvolumen.cpp.i
-
-.PHONY : testvolumen.i
-
-# target to preprocess a source file
-testvolumen.cpp.i:
-	$(MAKE) -f CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/build.make CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.i
-.PHONY : testvolumen.cpp.i
-
-testvolumen.s: testvolumen.cpp.s
-
-.PHONY : testvolumen.s
-
-# target to generate assembly for a file
-testvolumen.cpp.s:
-	$(MAKE) -f CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/build.make CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.s
-.PHONY : testvolumen.cpp.s
-
 volumen.o: volumen.cpp.o
 
 .PHONY : volumen.o
@@ -306,9 +279,6 @@ help:
 	@echo "... revista.o"
 	@echo "... revista.i"
 	@echo "... revista.s"
-	@echo "... testvolumen.o"
-	@echo "... testvolumen.i"
-	@echo "... testvolumen.s"
 	@echo "... volumen.o"
 	@echo "... volumen.i"
 	@echo "... volumen.s"

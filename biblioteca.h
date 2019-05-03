@@ -16,14 +16,14 @@ private:
     int libros;
     int revistas;
     int numVolumenes;
-    std::vector<volumen> volumenes;
+    std::vector<volumen*> volumenes;
 
 public:
     biblioteca(int maxLib,int maxRev);
     void agregarLibro(std::string _titulo);
     void agregarRevista(std::string _titulo);
     void mostrarBiblioteca();
-    volumen getVolumen(int _numVolumen);
+    volumen* getVolumen(int _numVolumen);
     int getLibros();
     int getRevistas();
 };

@@ -70,22 +70,9 @@ CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/main.cpp" -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.s
 
-CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/flags.make
-CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o: ../testvolumen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o -c "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/testvolumen.cpp"
-
-CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/testvolumen.cpp" > CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.i
-
-CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/testvolumen.cpp" -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.s
-
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/flags.make
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o: ../biblioteca.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o -c "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/biblioteca.cpp"
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.i: cmake_force
@@ -98,7 +85,7 @@ CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.s: cmake_force
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/flags.make
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o: ../volumen.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o -c "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/volumen.cpp"
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.i: cmake_force
@@ -111,7 +98,7 @@ CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.s: cmake_force
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/flags.make
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o: ../libro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o -c "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/libro.cpp"
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.i: cmake_force
@@ -124,7 +111,7 @@ CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.s: cmake_force
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/flags.make
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o: ../revista.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o -c "/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/revista.cpp"
 
 CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.i: cmake_force
@@ -138,7 +125,6 @@ CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.s: cmake_force
 # Object files for target agregacion_y_herencia_AlejandroGH97
 agregacion_y_herencia_AlejandroGH97_OBJECTS = \
 "CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.o" \
-"CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o" \
 "CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o" \
 "CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o" \
 "CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o" \
@@ -148,14 +134,13 @@ agregacion_y_herencia_AlejandroGH97_OBJECTS = \
 agregacion_y_herencia_AlejandroGH97_EXTERNAL_OBJECTS =
 
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/main.cpp.o
-agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/testvolumen.cpp.o
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/biblioteca.cpp.o
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/volumen.cpp.o
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/libro.cpp.o
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/revista.cpp.o
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/build.make
 agregacion_y_herencia_AlejandroGH97: CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable agregacion_y_herencia_AlejandroGH97"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/alejandro/Documents/UTEC/Ciclo 3/POO II/agregacion-y-herencia-AlejandroGH97/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable agregacion_y_herencia_AlejandroGH97"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/agregacion_y_herencia_AlejandroGH97.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
